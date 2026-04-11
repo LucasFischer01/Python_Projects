@@ -1,4 +1,5 @@
 def menu_display():
+        print()
         print("Welcome to the Daily Expense Tracker!")
         print()
         print("Menu:")
@@ -7,6 +8,7 @@ def menu_display():
         print("3. Calculate total and average expense")
         print("4. Clear all expenses")
         print("5. Exit")
+        print()
 def add_new_expense(expenses):
         num = float(input("Enter your expense: "))
         expenses.append(num)
