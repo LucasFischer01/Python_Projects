@@ -1,0 +1,22 @@
+{
+        "Lucas": {
+                "phone": "9999",
+                "email": "lucas@email.com",
+                "address": "cancum"
+        },
+        "jonah": {
+                "phone": "456456456",
+                "email": "asda@email.com",
+                "address": "asdasd45 45 45"
+        },
+        "Bono": {
+                "phone": "+989488469",
+                "email": "bono_bonito@chiquitito.com",
+                "address": "mi cozazon 500"
+        },
+        "new_user": {
+                "phone": "696966969",
+                "email": "asas@email.com",
+                "address": "las vegas"
+        }
+}
